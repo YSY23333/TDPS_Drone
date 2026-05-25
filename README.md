@@ -95,11 +95,3 @@ code/mini.uvprojx
 
 Build it in Keil uVision, then flash the generated hex file to the flight controller board.
 
-## Safety
-
-- Test without propellers first.
-- Make sure motors do not start suddenly.
-- Use small throttle changes first.
-- Prepare a way to cut power.
-- Check height sensor, optical flow, and attitude data before real flight.
-
